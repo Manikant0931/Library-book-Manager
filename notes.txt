@@ -1,0 +1,5 @@
+1.how we handle array in react?
+2.deconstructuring in react
+3.class components and functional components
+4.props in react
+5.
